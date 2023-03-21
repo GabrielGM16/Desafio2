@@ -1,3 +1,14 @@
+PARA CORRER EL BACK:
+-descargar back
+
+isntalar dependencias:
+-npm i
+
+encender el back
+-npm run start  
+(correra dentro del puerto 3000)
+
+PARA CORRER EL FRONT:
 Instalar dependencias:
 
 npm i
